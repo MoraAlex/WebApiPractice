@@ -1,0 +1,10 @@
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\bin\Debug\DamasPerron.exe.config
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\bin\Debug\DamasPerron.exe
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\bin\Debug\DamasPerron.pdb
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasFinal.csprojAssemblyReference.cache
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasPerron.button_ficha1.resources
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasPerron.Properties.Resources.resources
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasFinal.csproj.GenerateResource.cache
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasFinal.csproj.CoreCompileInputs.cache
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasPerron.exe
+C:\Users\moraaleg\source\repos\DamasPerron\DamasPerron\obj\Debug\DamasPerron.pdb
